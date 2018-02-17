@@ -18,6 +18,8 @@ Discussed items:
 Abstract - concrete
 
 Datastore - Inventory
+
 Melee weapon - Sword , axe, bat
+
 Uploader/downloader - Buy/sell item form iventory
 
