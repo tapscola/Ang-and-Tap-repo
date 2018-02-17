@@ -13,3 +13,11 @@ classes you have created.
 
 The instances of user-defined classes must be saved in a user-defined data structure supported by Java 
 (to be learned in Week 6), or you can implement your own data structure.
+
+Discussed items:
+Abstract - concrete
+
+Datastore - Inventory
+Melee weapon - Sword , axe, bat
+Uploader/downloader - Buy/sell item form iventory
+
